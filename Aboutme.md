@@ -1,5 +1,8 @@
 # 💫 About Me:
-<br><br>🌱 I’m currently learning Fronend Developement <br>
+<br><br>🌱Hey! I'm Ahmed Khaled 👋  
+An undergraduated CS student currently diving into Front-End development with React.  
+I’m passionate about coding, building creative projects, and always learning something new.
+ <br>
 
 
 ## 🌐 Socials:
