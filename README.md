@@ -14,7 +14,7 @@ I'm currently learning Front-End development with React, and I'm passionate abou
 ![](https://nirzak-streak-stats.vercel.app/?user=Ahmedkhaled391&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkhaled391&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
