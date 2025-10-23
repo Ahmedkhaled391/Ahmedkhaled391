@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🌱 I’m currently learning Fronend Developement <br>💬 Ask me about<br>⚡ Fun fact
+<br><br>🌱 I’m currently learning Fronend Developement <br>
 
 
 ## 🌐 Socials:
