@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br> Hi, I'm Ahmed Khaled  an undergraduate Computer Science student.  
 I'm currently learning Front-End development with React, and I'm passionate about coding, problem-solving, and creating modern web experiences.
- <br>💬 
+ <br> 
 
 
 ## 🌐 Socials:
