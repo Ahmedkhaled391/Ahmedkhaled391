@@ -2,7 +2,7 @@
 <br> Hi, I'm Ahmed Khaled  an undergraduate Computer Science student.  
 I'm currently learning Front-End development with React, and I'm passionate about coding, problem-solving, and creating modern web experiences.
  <br> 
-
+ ![](https://komarev.com/ghpvc/?username=AhmedKhaled391)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-khaled-7835b9331/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedkhaled39119@gmail.com) 
