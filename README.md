@@ -1,6 +1,6 @@
 # 💫 Ahmed Khaled
 
-> **CS Student | Full-Stack Developer | Problem Solver**  
+> **CS Student | Frontend Developer**  
 > Building modern web experiences with efficient systems and clean code architecture.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmedkhaled391&color=39d98a&style=flat-square)
@@ -17,7 +17,8 @@ I'm a CS student and a Front-End developer,I'm passionate about coding, problem-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-khaled-7835b9331/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedkhaled39119@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmedkhaled391)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Potato391/)
+
 
 ## 💻 Tech Stack
 
@@ -48,13 +49,13 @@ I'm a CS student and a Front-End developer,I'm passionate about coding, problem-
 ## 📊 GitHub Analytics
 
 ### Contribution Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedkhaled391&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=39d98a&icon_color=39d98a)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedKhaled391&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=39d98a&icon_color=39d98a)
 
 ### Contribution Streak
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ahmedkhaled391&theme=dark&hide_border=true&ring=39d98a&fire=39d98a&currStreakLabel=39d98a)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AhmedKhaled391&theme=dark&hide_border=true&ring=39d98a&fire=39d98a&currStreakLabel=39d98a)
 
 ### Language Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkhaled391&theme=dark&hide_border=true&layout=compact&langs_count=10&ring_color=39d98a)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhaled391&theme=dark&hide_border=true&layout=compact&langs_count=10&ring_color=39d98a)
 
 ---
 
