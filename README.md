@@ -6,15 +6,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmedkhaled391&color=39d98a&style=flat-square)
 
 ---
-
-## 🎯 About Me
-
-I'm an undergraduate Computer Science student at Ahram Canadian University (ACU) specializing in systems and web technologies. I'm passionate about solving complex problems—from kernel scheduling algorithms and cryptographic implementations to full-stack product development. Always learning, always building.
-
-- 🏫 **3rd-year CS Student** at ACU | GPA: 3.5
-- 🚀 **MERN Stack Developer** | TypeScript, React, Node.js
-- 🔐 Deep expertise in **Operating Systems, Cryptography, DSP**
-- 🎓 Graduation Project: **Medical/ECG Analysis Platform**
+# 💫 About Me:
+<br> Hi, I'm Ahmed Khaled  an undergraduate Computer Science student.  
+I'm a CS student and a Front-End developer,I'm passionate about coding, problem-solving, and creating modern web experiences.
+ <br>
 
 ---
 
@@ -43,7 +38,6 @@ I'm an undergraduate Computer Science student at Ahram Canadian University (ACU)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -78,4 +72,3 @@ I'm an undergraduate Computer Science student at Ahram Canadian University (ACU)
 
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&textBg=true&borderRadius=10)
 
-![Visit Count](https://visitcount.itsvg.in/api?id=Ahmedkhaled391&icon=0&color=39d98a)
