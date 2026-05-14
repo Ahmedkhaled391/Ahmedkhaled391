@@ -76,5 +76,8 @@
 *   🎮 **Gaming**
 *   ♟️ **Chess**
 
+
+<p align="center"> <img src="./profile/quote.svg" alt="Random Quote"/> </p>
+
 ---
 
