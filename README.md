@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=AhmedKhaled391&color=39d98a&style=flat-square" alt="Profile Views"/>
 </p>
 
-<h1 align="center">Hi, I'm **Ahmed** 👋</h1>
+<h1 align="center">Hi, I'm <strong>Ahmed</strong> 👋</h1>
 
 <p align="center">
   <strong>Undergraduate Computer Science Student | Front-End Developer</strong>
