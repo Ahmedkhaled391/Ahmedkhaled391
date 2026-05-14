@@ -16,7 +16,9 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
+
+
+<p align="center">
 <a href="https://www.linkedin.com/in/ahmed-khaled-7835b9331/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -57,13 +59,13 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="175" alt="GitHub Stats"/>
+  <img src="./profile/stats.svg" height="175" alt="GitHub Stats" width="70%"/>
 </p>
 <p align="center">
-  <img src="./profile/top-langs.svg" height="175" alt="Top Languages"/>
+  <img src="./profile/top-langs.svg" height="175" alt="Top Languages" width="70%"/>
 </p>
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" width="100%"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="70%"/>
 </p>
 
 ---
