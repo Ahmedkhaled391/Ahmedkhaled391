@@ -78,6 +78,3 @@
 
 ---
 
-<p align="center">
-  <img src="./profile/quote.svg" alt="Random Quote"/>
-</p> can you make my repo similar design to the image i sent you + i don't think my lagnuage stats is accurate is there a reason why? i have private and public stats but it's not true
