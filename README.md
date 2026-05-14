@@ -55,12 +55,12 @@ I'm passionate about coding, problem-solving, and creating modern web experience
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedKhaled391&show_icons=true&theme=dark&hide_border=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhaled391&layout=compact&theme=dark&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedKhaled391&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -74,5 +74,5 @@ I'm passionate about coding, problem-solving, and creating modern web experience
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"/>
+  <img src="./profile/quote.svg" alt="Random Quote"/>
 </p>
